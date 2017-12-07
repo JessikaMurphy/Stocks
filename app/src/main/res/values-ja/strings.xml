@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">株式</string>
+    <string name="empty_list">空のリスト、ボタンを押して株を追加する</string>
+    <string name="empty_details">株データなし</string>
+    <string name="price">価格: </string>
+    <string name="name">名: </string>
+    <string name="typeStock">あなたの株を入力してください: </string>
+    <string name="ok">はい</string>
+    <string name="cancel">キャンセル</string>
+    <string name="updated">更新しました</string>
+</resources>

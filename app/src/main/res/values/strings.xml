@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="empty_list">Empty list, press button to add stocks</string>
+    <string name="empty_details">No Stock Data</string>
+    <string name="price">Price: </string>
+    <string name="name">Name: </string>
+    <string name="typeStock">Type Your Stock: </string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="updated">Updated</string>
+</resources>
